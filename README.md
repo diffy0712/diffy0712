@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diffy0712
+- 👀 I’m interested in full stack web development and devops
+- 🌱 I’m currently focusing on c# with asp.net core, typescript and react
+- 💞️ I’m looking to collaborate on project using the tech above.
+- 📫 david.ferencz@protonmail.com
